@@ -1,0 +1,11 @@
+File_Name_R1	File_Name_R2	Sample	Condition	Replicate	Antibody	Sample_name	LPS	KD
+2_R1_001.fastq.gz	2_R2_001.fastq.gz	Sample_2	Control	2	Antibody	Sample_2_Control_2_Antibody	Control	Control
+3_R1_001.fastq.gz	3_R2_001.fastq.gz	Sample_3	Control	3	Antibody	Sample_3_Control_3_Antibody	Control	Control
+7_R1_001.fastq.gz	7_R2_001.fastq.gz	Sample_7	KD	1	Antibody	Sample_7_KD_1_Antibody	Control	KD
+8_R1_001.fastq.gz	8_R2_001.fastq.gz	Sample_8	KD	2	Antibody	Sample_8_KD_2_Antibody	Control	KD
+9_R1_001.fastq.gz	9_R2_001.fastq.gz	Sample_9	KD	3	Antibody	Sample_9_KD_3_Antibody	Control	KD
+13_R1_001.fastq.gz	13_R2_001.fastq.gz	Sample_2	Control	2	Control	Sample_2_Control_2_Control	Control	Control
+15_R1_001.fastq.gz	15_R2_001.fastq.gz	Sample_3	Control	3	Control	Sample_3_Control_3_Control	Control	Control
+19_R1_001.fastq.gz	19_R2_001.fastq.gz	Sample_7	KD	1	Control	Sample_7_KD_1_Control	Control	KD
+20_R1_001.fastq.gz	20_R2_001.fastq.gz	Sample_8	KD	2	Control	Sample_8_KD_2_Control	Control	KD
+21_R1_001.fastq.gz	21_R2_001.fastq.gz	Sample_9	KD	3	Control	Sample_9_KD_3_Control	Control	KD
