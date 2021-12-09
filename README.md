@@ -1,5 +1,5 @@
 # CHROME ChIPseq
-This repository contains the pipeline/code that was used to analyze the ChIPseq data in GEO###. This pipeline was written for execution on the NYU big purple server. This readme describes how to execute the snake make workflow for paired-end ChIP-seq data pre-processing (fastq -> peak calling), Utilizing bowtie2 for alignment and MACS2 for peak calling. Post peak calling R was utilized for differential peak enrichment analysis and peak annotation. The conda environment used for the snakemake pipeline is in ChIPseq.yml. The conda environment used for the DiffBind analysis in R is in DiffBind.yml.
+This repository contains the pipeline/code that was used to analyze the ChIPseq data in GEO: GSE190413. This pipeline was written for execution on the NYU big purple server. This readme describes how to execute the snake make workflow for paired-end ChIP-seq data pre-processing (fastq -> peak calling), Utilizing bowtie2 for alignment and MACS2 for peak calling. Post peak calling R was utilized for differential peak enrichment analysis and peak annotation. The conda environment used for the snakemake pipeline is in ChIPseq.yml. The conda environment used for the DiffBind analysis in R is in DiffBind.yml.
 
 # Description of files:
 ## Snakefile
